@@ -1,0 +1,237 @@
+
+.header{
+	width: 99%;
+	height: 1.5vw;
+	background: #1b5c75;
+	color: #ffffff;
+	font: normal 15px / 23px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+	text-align: center;
+	padding: 15px;
+	margin: auto;
+	font-size: 1vw;
+}
+
+
+
+.body{
+	background: rgb(245, 245, 245);
+	  background-position: center;
+       background-repeat: no-repeat;
+        background-size: contain;
+       font-size: 20px;
+        text-align: left;
+        color: white;
+        width: 100%;
+          height: 800px;
+      }
+
+
+.contact {
+
+    color: #333333;
+	height: 400px;
+	width: 30%;
+	
+	float: right;
+	margin: 170px 5px;
+	margin-right: 100px;
+	font-size: 2vw;
+	
+
+
+}
+
+.info{
+	text-align: center;
+	
+	color: #333333;
+	margin-left: 20px;
+	font-size: 2vw;
+}
+
+.lnr-map-marker{
+	color: #0F52BA;
+	font-size: 40px;
+	margin-left: 10px;
+}
+
+.lnr-pencil{
+	color: #0F52BA;
+	font-size: 40px;
+	margin-left: 10px;
+}
+
+.lnr-smartphone{
+	
+color: #0F52BA;
+	font-size: 40px;
+	margin-left: 10px;
+
+}
+
+
+.nav{
+	word-spacing: 80px;
+    
+	text-align: center;
+	vertical-align: center;
+	height: 60px;    
+	
+	text-decoration: none;
+	font-size: 30px;
+	position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
+  font: normal 25px / 30px "Open Sans", Helvetica, Arial, Verdana, sans-serif, cursive;
+  background-color: white;
+  width: 100%;
+}
+
+  .map{
+  	margin-top: 150px;
+  	margin-left: 100px;
+
+  	
+  	box-sizing: border-box;
+  	border: 1px black;
+    width: 50vw;
+    height: 30vw;
+
+  }
+
+
+
+  .footer{
+	
+	height: 20vw;
+	width: 100%;
+	background-color: #1f365c;
+	font-size: 1vw;
+	position: relative;
+    text-align: center;
+    color: white;
+
+}
+
+.footer1{
+	position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+	font-size: 1vw;
+	
+}
+.footer2{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 1vw;
+    
+}
+
+.footer3{
+	position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+	font-size: 1vw;
+	
+}
+.white{
+	background-color: #1f365c;
+	width: 100%;
+	height: 3vw;
+	position: relative;
+    text-align: center;
+    color: white; 
+    margin-top: 1px;
+}
+
+.white1{
+	
+	position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	
+	color: white;
+	text-align: center;
+	font-size: 1vw;
+	
+
+}
+
+.button{
+	  background-color: white; 
+      color: #1b5c75; 
+      border: none;
+
+  
+  
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.button:hover {
+	background-color: #008CBA;
+  color: white;
+}
+
+.parteneri{
+	height: 20vw;
+	width: 100%;
+	background: rgb(245, 245, 245);
+	font-size: 2.5vw;
+	position: relative;
+    text-align: center;
+    color: #1b5c75;
+    
+}
+.cut{
+	position: absolute;
+    top: 57%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+	font-size: 1.5vw;
+	height: 5vw;
+	width: 5vw;
+	color: #1b5c75;;
+}
+.homag{
+	position: absolute;
+    top: 52%;
+    left: 73%;
+    transform: translate(-50%, -50%);
+	font-size: 1.5vw;
+	height: 4vw;
+	width: 4vw;
+	color: #1b5c75;;
+}	
+
+.imagine{
+	position: absolute;
+    top: 50%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+	font-size: 1vw;
+	height: 7vw;
+	width: 7vw;
+}
+.imagine1{
+	position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+	font-size: 1vw;
+	height: 7vw;
+	width: 7vw;
+}
